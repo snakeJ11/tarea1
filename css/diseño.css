@@ -1,0 +1,9 @@
+.cuerpo
+{   
+    font-family: Arial, Helvetica, sans-serif;
+    color:lightgrey;
+    font-size: 12px;
+    text-align: center;
+background-image: url("../imagenes/snae2.jpg" );
+background-size: cover;
+}
